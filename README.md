@@ -47,7 +47,7 @@ data: The folder containing the  data dictonary for the dataset.
 
 ## Project delivery
 
-The deliverable for this project is a blog post that can be found here: 
+The deliverable for this project is a blog post that can be found here:https://medium.com/@tobikasali/university-level-factors-affecting-graduation-rates-b06f39d7ab2a 
 
 ## Summary of results
 
