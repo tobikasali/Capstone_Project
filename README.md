@@ -12,7 +12,7 @@
 
 ## Project Motivation
 
-TThe goal of the project is to determine what are the university level factors that predict and affect graduation rate at American universities using the College Scorecard dataset.
+The goal of the project is to determine what are the university level factors that predict and affect graduation rate at American universities using the College Scorecard dataset.
 
 Graduation rates are only reported for cohorts of full-time, first-time students, so graduation rate information is not available for students who may have previous higher education experience or for part-time students.  Another limitation is that outcomes are not recorded for students who transfer from the institution. Therefore I will be focusing on the we are going to look at the completion rates for first-time,full-time students at four year institutions and less than four year institutions..
 
